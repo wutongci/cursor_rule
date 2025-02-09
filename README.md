@@ -1,6 +1,9 @@
 # cursor_rule
 
+
 cursor/rule 配置
+
+```
 .cursor/
 └── rules/
     ├── coding_style.mdc
@@ -9,8 +12,10 @@ cursor/rule 配置
     ├── requirements.mdc
     ├── testing.mdc
     └── task_management.mdc
-
+```
 记忆银行
+
+```
 memory-bank/
 ├── open/                
 │   └── {task-id}/      
@@ -35,3 +40,4 @@ memory-bank/
 │   └── ...
 └── deployment/         
     └── ...
+```
