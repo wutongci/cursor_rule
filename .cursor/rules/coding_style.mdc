@@ -1,6 +1,7 @@
 ---
 description: 代码风格规则
 globs: 
+alwaysApply: true
 ---
 
 ## 描述

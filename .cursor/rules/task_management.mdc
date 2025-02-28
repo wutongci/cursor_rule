@@ -2,7 +2,6 @@
 description: 任务管理规则
 globs: 
 ---
-
 ## 描述
 
 这些规则定义了与任务管理相关的 AI 行为，主要与 Memory Bank 的 `open/` 和 `done/` 目录结构配合。

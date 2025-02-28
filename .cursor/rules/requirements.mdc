@@ -1,6 +1,7 @@
 ---
 description: 需求管理规则
 globs: 
+alwaysApply: false
 ---
 
 ## 描述

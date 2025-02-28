@@ -32,3 +32,23 @@
 *  [描述如何保证系统的可测试性]
 ## 关联文档
 * `projectbrief.md`
+
+## Task Tracking Pattern
+
+### Story Format
+- Title: [简短描述]
+- Description: 
+  - As a: [角色]
+  - I want: [需求]
+  - So that: [价值]
+  
+### Status Tracking
+- Open: 初始状态，待处理
+- In Progress: 正在进行
+- Done: 满足验收标准
+
+### Acceptance Criteria
+- [ ] 功能完成
+- [ ] 代码审查通过
+- [ ] 测试用例编写完成
+- [ ] 文档更新
