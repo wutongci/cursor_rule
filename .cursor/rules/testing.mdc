@@ -1,6 +1,7 @@
 ---
-description:  测试相关规则
+description: 测试相关规则
 globs: 
+alwaysApply: true
 ---
 
 ## 描述

@@ -1,10 +1,8 @@
 ---
 description: 架构工具Architect Assistant Prompt (Implementation Planner)
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
-**描述 (Description):**
-
 分析技术需求并生成可执行的实施计划。  作为专家软件架构师，此工具将需求分解为详细步骤，供初级工程师执行。 **不编写代码，仅提供实施计划。**
 
 **目标 (Objective):**

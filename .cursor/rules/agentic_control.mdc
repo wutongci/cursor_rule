@@ -1,7 +1,7 @@
 ---
 description: 控制 AI 自主性规则 (Agentic Function Control Rules)
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 **目标 (Objective):**
 

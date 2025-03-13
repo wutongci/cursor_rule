@@ -1,7 +1,7 @@
 ---
 description: 思考工具 Prompt (Deep Thinking Tool)
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 **描述 (Description):**
 

@@ -1,6 +1,7 @@
 ---
 description: 任务管理规则
 globs: 
+alwaysApply: true
 ---
 ## 描述
 
